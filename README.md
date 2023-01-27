@@ -1,6 +1,6 @@
 ### Hi, I'm Eric Chu 👋
 
-#### An data analytics professional with experience in the process of documenting, interpreting, editing, and analyzing data. An active learner in the field that consist of works from projects with a focus on using C++, javascript, python, and R for data analytics and computational problem solving. 
+#### An data analytics professional with experience in the process of documenting, interpreting, editing, and analyzing data. An active learner in the field that consist of works from projects with a focus on using C++, HTML, python, and R for data analytics and computational problem solving. 
 <!--
 **dexchu100/dexchu100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
